@@ -1,4 +1,6 @@
 #define SSID ""
 #define SENHA ""
 
-#define SERVER_IP "192.168.10.105:8000"
+//exemplo (192.168.191.105:8000)   nao se esqueca da porta que sua aplicacao esta usando!
+#define SERVER_IP ""
+
